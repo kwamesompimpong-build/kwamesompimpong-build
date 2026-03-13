@@ -4,11 +4,11 @@
 
 I'm a consultant and builder at Deloitte, where I use satellite data and spatial analytics to help clients locate, characterize, and monitor environmental and human activity. I'm drawn to problems that sit at the edges of industries — where technology, policy, and capital meet in unexpected ways.
 
-My curiosity was sparked early by *The Way Things Work* and stacks of National Geographic magazines. That same instinct — to find the unobvious connection — drives everything I build.
+My curiosity was sparked early by *The Way Things Work* and stacks of National Geographic magazines. That same instinct — to find the unobvious connection — drives everything I do.
 
 ---
 
-## What I'm Building
+## What I'm Exploring Right Now
 
 | Project | Description | Stack |
 |---|---|---|
